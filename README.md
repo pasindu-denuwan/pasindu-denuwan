@@ -42,11 +42,11 @@ My interests combine creative design, structured project management, analytical 
 
 I enjoy understanding user needs, translating business requirements into solutions, coordinating development teams, and improving the usability and reliability of digital products.
 
-- 🎨 **UI/UX Design** — Designing intuitive and user-centered digital experiences.
-- 📋 **Project Management** — Planning, coordinating teams, and managing project delivery.
-- 📊 **Business Analysis** — Understanding requirements and identifying opportunities for improvement.
-- ✅ **Quality Assurance** — Evaluating software quality, identifying defects, and improving reliability.
-- 🤝 **Leadership** — Collaborating with teams and contributing to meaningful initiatives.
+- 🎨 **UI/UX Design** - Designing intuitive and user-centered digital experiences.
+- 📋 **Project Management** - Planning, coordinating teams, and managing project delivery.
+- 📊 **Business Analysis** - Understanding requirements and identifying opportunities for improvement.
+- ✅ **Quality Assurance** - Evaluating software quality, identifying defects, and improving reliability.
+- 🤝 **Leadership** - Collaborating with teams and contributing to meaningful initiatives.
 
 ---
 
