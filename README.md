@@ -240,7 +240,7 @@ I'm interested in connecting with people working in UI/UX design, digital produc
 </a>
 
 <a href="YOUR_BLOG_URL">
-<img src="https://img.shields.io/badge/Blog-Read%20My%20Insights-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+<img src="https://img.shields.io/badge/Blog-Read%20My%20Insights-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" a href="https://medium.com/@denuwan672" />
 </a>
 
 <br/><br/>
