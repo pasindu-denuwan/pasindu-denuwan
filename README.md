@@ -173,17 +173,21 @@ Explore my software projects, practical experiments, and ongoing learning.
 <tr>
 <td width="100%">
 
-**Vice President**  
-Rotaract Club of Sabaragamuwa University of Sri Lanka
-
-**Vice President**  
-Leo Club of Sabaragamuwa University of Sri Lanka
-
-**Public Visibility Chair**  
+**Chairperson 2026/27**  
 IEEE Computer Society Chapter, Sabaragamuwa University of Sri Lanka
 
+**Vice President 2026/27**  
+Rotaract Club of Sabaragamuwa University of Sri Lanka
+
+**Vice President 2026/27**  
+Leo Club of Sabaragamuwa University of Sri Lanka
+
+**Public Visibility Chair 2025/26**  
+IEEE Computer Society, Sabaragamuwa University of Sri Lanka
+
 **Project Manager**  
-Official Website Development — Rotaract SUSL
+Official Website Development - Rotaract SUSL
+Official Website Development - IEEE Computer Society, SUSL
 
 </td>
 </tr>
