@@ -235,7 +235,7 @@ I'm interested in connecting with people working in UI/UX design, digital produc
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-pasindu-denuwan.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/>
 </a>
 
