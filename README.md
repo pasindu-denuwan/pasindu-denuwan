@@ -227,11 +227,11 @@ I'm interested in connecting with people working in UI/UX design, digital produc
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pasindu-denuwan/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="denuwan672@gmail.com">
 <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
 </a>
 
@@ -239,8 +239,8 @@ I'm interested in connecting with people working in UI/UX design, digital produc
 <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website"/>
 </a>
 
-<a href="YOUR_BLOG_URL">
-<img src="https://img.shields.io/badge/Blog-Read%20My%20Insights-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" a href="https://medium.com/@denuwan672" />
+<a href="https://medium.com/@denuwan672">
+<img src="https://img.shields.io/badge/Blog-Read%20My%20Insights-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
 </a>
 
 <br/><br/>
