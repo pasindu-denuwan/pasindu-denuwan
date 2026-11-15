@@ -23,10 +23,10 @@
 <a href="https://github.com/pasindu-denuwan">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pasindu-denuwan/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-pasindu-denuwan.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -245,8 +245,8 @@ I'm interested in connecting with people working in UI/UX design, digital produc
 
 <br/><br/>
 
-**Email:** YOUR_EMAIL  
-**Contact:** YOUR_PHONE_NUMBER
+**Email:** denuwan672@gmail.com  
+**Contact:** +94741129514
 
 <br/>
 
